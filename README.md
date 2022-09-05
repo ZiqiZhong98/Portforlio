@@ -9,3 +9,6 @@ I hope to learn more data visualization tools. I am passionate learner! I want t
 
 # Portforlio
 Here is where my cool works will go!
+- Data visualization critique
+- Data visualization workshops
+- Data visualization projects
