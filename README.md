@@ -11,4 +11,5 @@ I hope to learn more data visualization tools. I am passionate learner! I want t
 Here is where my cool works will go!
 - Data visualization critique
 - Data visualization workshops
+[data viz](/dataviz2.md)
 - Data visualization projects
