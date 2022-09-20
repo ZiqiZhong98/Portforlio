@@ -13,3 +13,6 @@ In this chart, I see a large blue slope, showing that iPhone sales are rising st
 
 # Wireframe the solution
 ## Participant 1: Student, mid 20's
+
+# Redesigned Data Visualization
+<div class="flourish-embed flourish-chart" data-src="visualisation/11229027"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
