@@ -13,27 +13,27 @@ In this chart, I see a large blue slope, showing that iPhone sales are rising st
 
 # Wireframe the solution
 ## Participant 1: Student, mid 20's
-Can you tell me what you think this is?
-The sales of iPhone over the years.
-Can you describe to me what this is telling you?
-The iPhone sales keeps increasing from 2007 to 2013. 
-Is there anything you find surprising or confusing?
-Why there is cumulative sales? 
-Who do you think is the intended audience for this?
-Phone users or Apple fans.
-Is there anything you would change or do differently?
-I will not add the cumulative sales line, I think it's useless. I will add quarterly sales data to this chart.
+- Can you tell me what you think this is?
+- The sales of iPhone over the years.
+- Can you describe to me what this is telling you?
+- The iPhone sales keeps increasing from 2007 to 2013. 
+- Is there anything you find surprising or confusing?
+- Why there is cumulative sales? 
+- Who do you think is the intended audience for this?
+- iPhone users or Apple fans.
+- Is there anything you would change or do differently?
+- I will not add the cumulative sales line, I think it's useless. I will add quarterly sales data to this chart.
 ## Participant 2: Student, mid 20's
-Can you tell me what you think this is?
-This is a graph that depicts the annual sales data of Iphone.
-Can you describe to me what this is telling you?
-This tells me more Iphone are being sold each year.
-Is there anything you find surprising or confusing?
-There is a huge jump from 2010 to 2011 that sort of suprises me.
-Who do you think is the intended audience for this?
-Apple shareholder, Apple decision-maker
-Is there anything you would change or do differently?
-The cumulative sales seems uncessary. Can change it to percentage increase/decrease
+- Can you tell me what you think this is?
+- This is a graph that depicts the annual sales data of Iphone.
+- Can you describe to me what this is telling you?
+- This tells me more Iphone are being sold each year.
+- Is there anything you find surprising or confusing?
+- There is a huge jump from 2010 to 2011 that sort of suprises me.
+- Who do you think is the intended audience for this?
+- Apple shareholder, Apple decision-maker
+- Is there anything you would change or do differently?
+- The cumulative sales seems uncessary. Can change it to percentage increase/decrease
 
 # Redesigned Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/11229027"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
