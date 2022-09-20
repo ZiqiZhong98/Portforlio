@@ -13,8 +13,32 @@ In this chart, I see a large blue slope, showing that iPhone sales are rising st
 
 # Wireframe the solution
 ## Participant 1: Student, mid 20's
+- Can you tell me what you think this is?
+  The sales of iPhone over the years.
+- Can you describe to me what this is telling you?
+  The iPhone sales keeps increasing from 2007 to 2013. 
+- Is there anything you find surprising or confusing?
+  Why there is cumulative sales? 
+- Who do you think is the intended audience for this?
+  iPhone users or Apple fans.
+- Is there anything you would change or do differently?
+  I will not add the cumulative sales line, I think it's useless. I will add quarterly sales data to this chart.
+## Participant 2: Student, mid 20's
+- Can you tell me what you think this is?
+  This is a graph that depicts the annual sales data of Iphone.
+- Can you describe to me what this is telling you?
+  This tells me more Iphone are being sold each year.
+- Is there anything you find surprising or confusing?
+  There is a huge jump from 2010 to 2011 that sort of suprises me.
+- Who do you think is the intended audience for this?
+  Apple shareholder, Apple decision-maker
+- Is there anything you would change or do differently?
+  The cumulative sales seems uncessary. Can change it to percentage increase/decrease
 
 # Redesigned Data Visualization
 <div class="flourish-embed flourish-chart" data-src="visualisation/11229027"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Summary
+The original data visualization was shown by Tim Cook on Apple's iPhone event. The graph displayed the dramatic increase in processor and graphics performance between the very first iPhone in 2007 and the upcoming iPhone 5s. However, the chart was very misleading and confusing. The chart presented the cumulative sales rather than actual sales volume in each year or each quarter. The chart didn't show the increase or decrease rate over the years either. So I chose this chart to critique and redesign.
+
+Critique by Design including 5 sections. Firstly, I observed the original data visualization and found that the data visualization was kind of confusing and misleading. Then, I critiqued the data visualization based on Stephen Few's methods. After that, I sketched the data visualization and presented it to my classmates. From their feedback, I found that they both think the cumulative sales is unnecessary. So I modified my design based on their feedback. I removed the cumulative sales and added the increase/decrease rate to the chart, so the audience can get the trend of iPhone sales quickly.
