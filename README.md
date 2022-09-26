@@ -14,4 +14,6 @@ Here is where my cool works will go!
 [data viz](/dataviz2.md)
 - Critique by Design
 [Critique_by_design](/Critique_by_design.md)
+- Final Project
+[Final_Project_ZiqiZhong](/Final_Project_ZiqiZhong.md)
 - Data visualization projects
