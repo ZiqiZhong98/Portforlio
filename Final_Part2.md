@@ -1,5 +1,5 @@
 # Wireframe and Storyboard
-[Women in the labor force](/https://preview.shorthand.com/kW4MioCpl4YEn8e4)
+[Women in the labor force](https://preview.shorthand.com/kW4MioCpl4YEn8e4)
 
 # User Research
 ## Male, 23 years old, student
