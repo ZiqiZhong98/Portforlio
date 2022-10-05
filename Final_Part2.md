@@ -1,9 +1,9 @@
 # Wireframe and Storyboard
-https://preview.shorthand.com/kW4MioCpl4YEn8e4
+[Women in the labor force](/https://preview.shorthand.com/kW4MioCpl4YEn8e4)
 
 # User Research
 ## Male, 23 years old, student
--what do you see and capture at first sight? What is this chart about?
+- what do you see and capture at first sight? What is this chart about?
 
 I think is the Earning gap, I can see the gap is huge, but I think the bar chart with two category would be better visualization here since it is not necessary continuous, but I got the point. 
 
