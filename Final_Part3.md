@@ -2,11 +2,11 @@
 
 
 # Final Presentation using Shorthand
-[Final Presentation](/https://preview.shorthand.com/ykXpxUgDPfVS0y6K)
+[Final Presenation](https://preview.shorthand.com/ykXpxUgDPfVS0y6K)
 
 # Links to Part1&Part2 of the final project
 - Final Project Part1
-[Final_Project_ZiqiZhong](/Final_Part1.md)
+[Final_Part1](/Final_Part1.md)
 - Final Project Part2
 [Final_Part2](/Final_Part2.md)
 # Changes since Part2
