@@ -18,4 +18,6 @@ Here is where my cool works will go!
 [Final_Project_ZiqiZhong](/Final_Part1.md)
 - Final Project Part2
 [Final_Part2](/Final_Part2.md)
+- Final Project Part3
+[Final_Part3](/Final_Part3.md)
 - Data visualization projects
