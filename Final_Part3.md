@@ -2,7 +2,7 @@
 [Back to homepage](https://ziqizhong98.github.io/Portforlio/)
 
 # Final Presentation using Shorthand
-[Final Presenation](https://preview.shorthand.com/ykXpxUgDPfVS0y6K)
+[Final Presenation](https://carnegiemellon.shorthandstories.com/women-in-the-labor-force/index.html)
 
 # Links to Part1&Part2 of the final project
 - Final Project Part1
