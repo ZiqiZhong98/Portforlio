@@ -15,7 +15,7 @@ Here is where my cool works will go!
 - Critique by Design
 [Critique_by_design](/Critique_by_design.md)
 - Final Project Part1
-[Final_Project_ZiqiZhong](/Final_Part1.md)
+[Final_Part1](/Final_Part1.md)
 - Final Project Part2
 [Final_Part2](/Final_Part2.md)
 - Final Project Part3
