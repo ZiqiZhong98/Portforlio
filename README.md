@@ -20,4 +20,6 @@ Here is where my cool works will go!
 [Final_Part2](/Final_Part2.md)
 - Final Project Part3
 [Final_Part3](/Final_Part3.md)
-- Data visualization projects
+
+Here is my final presentation! 
+[Final_Presentation](/Final_Part3.md)
